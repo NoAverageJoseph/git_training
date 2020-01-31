@@ -1,2 +1,2 @@
 Hi! I'm Bob. I'm new here.
-I'm a change on the master branch.
+I've been changed on the master branch, unlike Alice.
